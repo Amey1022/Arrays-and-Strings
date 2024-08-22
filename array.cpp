@@ -10,3 +10,10 @@ int main()
         cout<< x[i] <<endl;
     }
 }
+/*OUTPUT
+10
+20
+30
+40
+50
+*/
