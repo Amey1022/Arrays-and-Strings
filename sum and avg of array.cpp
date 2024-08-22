@@ -14,3 +14,7 @@ int main()
     avg=sum/n;
     cout<<"average:"<<avg<<endl;
 }
+/*OUTPUT
+sum:100
+average:25
+*/
