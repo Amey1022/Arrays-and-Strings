@@ -18,3 +18,12 @@ int main()
     }
     
 }
+/*OUTPUT
+enter number of elements required:3
+enter elements of array:1
+enter elements of array:2
+enter elements of array:3 
+1
+2
+3
+*/
