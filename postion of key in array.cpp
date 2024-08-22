@@ -20,4 +20,11 @@ int main()
     cout<<"number of times key is present: "<<count<<endl;
             
 }
+/*OUTPUT
+enter the number to be searched for:40
+position of the number is:4
+position of the number is:5
+position of the number is:9
+number of times key is present: 3
+*/
 
